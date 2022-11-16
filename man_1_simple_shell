@@ -1,0 +1,33 @@
+.TH man 1 "16 Novermber 2022" "ALX" "SIMPLE SHELL"
+
+.SH NAME
+.B Simple Shell
+- a simple command line interpreter we created in fulfilment of the ALX Simple Shell assignment.
+.SH SYNOPSIS
+.B hsh [command_file [argument ...]]
+.br
+.B hsh [command_name [argument ...]]
+
+.SH DESCRIPTION
+it's a CLI (command line interface).
+it's a program that takes commands from the keyboard and gives them to the Operating System to perform.
+Simple Shell is a replica of the Unix shell, it works the same way.
+
+.SH SHELL BUILTIN COMMANDS
+in this part you will find all the builtins that we worked on.
+The commands
+.B exit
+,
+.B env
+,
+.B help
+and
+.B echo
+are handled automatically by
+.B hsh
+
+.br
+.SH AUTHOR
+.B Oladele Adewunmi <https://github.com/Rachamv>
+.B Adio Isaac <https://github.com/Zik-Tech/>
+.SH
