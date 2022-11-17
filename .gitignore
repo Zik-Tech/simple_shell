@@ -1,6 +1,0 @@
-# gitignore file to Ignore Emacs buffer files
-*#
-*~
-
-# Ignore executable file
-*.out
